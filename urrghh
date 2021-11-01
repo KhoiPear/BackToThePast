@@ -1,0 +1,10 @@
+{
+   "name": "Music",
+   "displayName": "put name here",
+   "author": "Pear",
+   "description": "k",
+   "version": "1.0",
+   "minGameVersion": "121",
+   "hidden": "false"
+}
+
